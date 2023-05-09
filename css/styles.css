@@ -353,6 +353,7 @@ h3 {
 .button-filtr:focus {
   background: var(--aktiv);
   color: #ffffff;
+  border: 1px solid transparent;
 }
 
 .portfolio-list {
