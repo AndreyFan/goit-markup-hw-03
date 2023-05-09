@@ -109,6 +109,7 @@ h3 {
   text-transform: uppercase;
   color: var(--iris);
   display: inline-block;
+  margin-right: 76px;
 }
 
 .logo-part {
@@ -130,6 +131,7 @@ h3 {
   letter-spacing: 0.02em;
   line-height: 1.5;
   color: var(--dark-text);
+  padding: 24px 0;
 }
 
 .menu-item {
@@ -176,8 +178,8 @@ h3 {
 /* Hero */
 .hero-section {
   background-color: var(--dark-text);
-  padding-top: 188;
-  padding-bottom: 188;
+  padding-top: 188px;
+  padding-bottom: 188px;
 }
 
 .hero-title {
