@@ -109,20 +109,10 @@ h3 {
   text-transform: uppercase;
   color: var(--iris);
   display: inline-block;
-  margin-right: 76px;
-  margin-bottom: 16px;
 }
 
 .logo-part {
-  font-style: normal;
-  font-weight: 800;
-  font-size: 18px;
-  line-height: 1.17;
-  align-items: center;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
   color: var(--dark-text);
-  display: inline-block;
   margin-right: 76px;
 }
 
@@ -316,6 +306,7 @@ h3 {
   line-height: 1.5;
   color: var(--light);
   max-width: 264px;
+  margin-top: 16px;
 }
 
 /* Page PORTFOLIO */
